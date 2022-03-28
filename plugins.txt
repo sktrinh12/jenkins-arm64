@@ -1,0 +1,8 @@
+scm-api:latest
+git-client:latest
+git:latest
+greenballs:latest
+ansicolor:latest
+docker-plugin:latest
+docker-workflow:latest
+kubernetes:latest
